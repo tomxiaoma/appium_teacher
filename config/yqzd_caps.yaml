@@ -1,0 +1,14 @@
+
+#模拟器
+platformName: Android
+platformVersion: 5.1.1
+deviceName: 127.0.0.1:62001
+appPackage: com.yiqizhangda.teacher
+appActivity: com.kid17.teacher.guide.GuideActivity
+automationName: UiAutomator2
+noReset: True
+ip: 127.0.0.1
+port: 4723
+resetKeyboard: True
+unicodeKeyboard: True
+
